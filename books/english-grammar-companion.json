@@ -1,0 +1,319 @@
+{
+  "title": "English Grammar Companion",
+  "author": "Original study notes that follow the unit order of English Grammar in Use (Murphy, 5th edition)",
+  "chapters": [
+    {
+      "title": "Present and past",
+      "sections": [
+        {
+          "title": "Unit 1: Present continuous",
+          "text": [
+            "We use the present continuous for something in progress at the moment of speaking. The action has started and has not finished yet. Look at Priya in the kitchen: she is chopping onions, and the radio is playing behind her.",
+            "The form is am, is or are plus the -ing form of the verb. In speech we usually shorten it: I'm waiting, you're laughing, it isn't working. To make a question, put the first verb before the subject: Are you listening? What is Tom cooking?",
+            "The action does not have to be happening at this exact second. It can be a longer activity around now. Someone chatting at a party can say: I'm reading a wonderful novel. They are not reading at that moment, but they have started the novel and have not finished it.",
+            "We also use this form for temporary periods with words like today, this week and these days, and for situations that are changing: The days are getting shorter. Prices are rising quickly."
+          ],
+          "questions": [
+            {
+              "type": "single",
+              "q": "Which sentence describes something in progress right now?",
+              "options": ["Water boils at 100 degrees.", "Look, the kettle is boiling.", "I boil an egg every morning."],
+              "answer": 1
+            },
+            {
+              "type": "fill",
+              "q": "Use the present continuous of \"wait\": Please hurry! Everyone ____ for you.",
+              "answer": ["is waiting", "'s waiting"]
+            },
+            {
+              "type": "dropdown",
+              "q": "Listen! Somebody ____ at the door.",
+              "options": ["knocks", "is knocking", "knock"],
+              "answer": 1,
+              "explain": "\"Listen!\" tells us it is happening now."
+            },
+            {
+              "type": "multiple",
+              "q": "Which sentences are correct?",
+              "options": ["I'm learning to drive this year.", "She is work today.", "Are they staying with you?", "He not is sleeping."],
+              "answer": [0, 2]
+            },
+            {
+              "type": "fill",
+              "q": "Make it negative: The printer is working. → The printer ____ working.",
+              "answer": ["isn't", "is not"]
+            },
+            {
+              "type": "single",
+              "q": "Over lunch, a friend says, \"I'm building a website.\" What do they mean?",
+              "options": ["They are typing code at this moment.", "The project has started and is not finished.", "Building websites is their permanent job."],
+              "answer": 1,
+              "explain": "The activity is around now, not necessarily at this exact second."
+            },
+            {
+              "type": "dropdown",
+              "q": "The climate ____ warmer every decade.",
+              "options": ["is getting", "get", "getting"],
+              "answer": 0,
+              "explain": "This describes a situation that is changing."
+            }
+          ]
+        },
+        {
+          "title": "Unit 2: Present simple",
+          "text": [
+            "We use the present simple for things that are true in general or that happen repeatedly. Bees make honey. My sister teaches chemistry. The last bus leaves at midnight. The sentence does not tell us whether the action is happening right now.",
+            "Use the base verb, and add -s after he, she and it. Add -es after ch, sh, s, x and o: she watches, he goes. When a verb ends in a consonant and y, the ending becomes -ies: he studies, it flies.",
+            "Negatives and questions use do and does: I don't eat meat. She doesn't drive. Do you know Ana? Does he work here? After does and doesn't, the main verb has no -s.",
+            "Words such as always, usually, often, rarely and never are common with this form, and we ask about routines with how often. We can also use it when the words themselves perform the action: I suggest a short break. I apologise for the delay."
+          ],
+          "questions": [
+            {
+              "type": "fill",
+              "q": "Use the verb \"study\": Mina ____ law in Hanoi.",
+              "answer": "studies"
+            },
+            {
+              "type": "single",
+              "q": "Which question is correct?",
+              "options": ["Does she speaks Thai?", "Does she speak Thai?", "Is she speak Thai?"],
+              "answer": 1,
+              "explain": "After does, the main verb has no -s."
+            },
+            {
+              "type": "dropdown",
+              "q": "The museum ____ at nine and closes at five.",
+              "options": ["opens", "open", "opening"],
+              "answer": 0
+            },
+            {
+              "type": "multiple",
+              "q": "Which spellings are correct?",
+              "options": ["goes", "watchs", "flies", "plaies"],
+              "answer": [0, 2],
+              "explain": "Watch becomes watches. Play ends in a vowel and y, so it becomes plays."
+            },
+            {
+              "type": "fill",
+              "q": "Make it negative: My father drinks coffee. → My father ____ coffee.",
+              "answer": ["doesn't drink", "does not drink"]
+            },
+            {
+              "type": "single",
+              "q": "Which sentence states a general truth?",
+              "options": ["The sun rises in the east.", "The sun is rising over the hill now.", "The sun rose at six today."],
+              "answer": 0
+            },
+            {
+              "type": "dropdown",
+              "q": "How often ____ you go to the gym?",
+              "options": ["do", "are", "does"],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "title": "Unit 3: Present continuous and present simple, part 1",
+          "text": [
+            "The present continuous is about now or around now, for a limited time. The present simple is about things in general or things that happen repeatedly. Compare: The water is boiling, so turn it off. Water boils at a lower temperature on a mountain.",
+            "A sentence can use both forms. Ken usually walks to the office, but this week he is taking the bus because his foot hurts. Walking is his normal habit, while the bus is a temporary change.",
+            "The same contrast separates permanent and temporary situations. I live in Da Nang suggests this is my home. I'm living with my aunt until I find a flat suggests a short arrangement.",
+            "Always has two uses. I always check the door means I do it every time. He's always losing his keys means it happens too often, and the speaker usually sounds annoyed."
+          ],
+          "questions": [
+            {
+              "type": "dropdown",
+              "q": "Ken usually ____ to the office.",
+              "options": ["walks", "is walking"],
+              "answer": 0
+            },
+            {
+              "type": "dropdown",
+              "q": "This week my sister ____ the bus because her car is being repaired.",
+              "options": ["takes", "is taking"],
+              "answer": 1,
+              "explain": "\"This week\" marks a temporary period."
+            },
+            {
+              "type": "single",
+              "q": "Which sentence suggests a temporary arrangement?",
+              "options": ["I live in Da Nang.", "I'm living with my aunt until I find a flat.", "I work in a bank."],
+              "answer": 1
+            },
+            {
+              "type": "fill",
+              "q": "Use the verb \"rain\": Take an umbrella. It ____ outside.",
+              "answer": ["is raining", "'s raining"]
+            },
+            {
+              "type": "multiple",
+              "q": "Which sentences are correct?",
+              "options": ["Trains to the airport leave every ten minutes.", "Be quiet! The baby sleeps.", "What are you doing at the moment?", "I am usually going to the gym on Fridays."],
+              "answer": [0, 2]
+            },
+            {
+              "type": "single",
+              "q": "What does \"He's always losing his keys\" usually express?",
+              "options": ["Annoyance that it happens too often", "He lost his keys only once", "He will lose his keys tomorrow"],
+              "answer": 0
+            }
+          ]
+        },
+        {
+          "title": "Unit 4: Present continuous and present simple, part 2",
+          "text": [
+            "Some verbs describe states rather than actions, so we normally use them in the simple form even when we mean now. Common examples are know, like, love, want, need, prefer, understand, believe, remember, mean, belong and contain. We say I know the answer, not I am knowing the answer.",
+            "Some verbs change meaning. I think this plan is risky gives an opinion, so it is simple. I'm thinking about moving abroad means I am considering it, so it is continuous. In the same way, she has two brothers describes a state, but we're having dinner describes an activity.",
+            "With see, hear, smell and taste, we often use can for something we notice now: I can smell smoke. Can you hear that noise?",
+            "The verb be is usually simple, as in you are quiet, which describes your character. You're being quiet is different. It means you are behaving that way right now, and perhaps that it is unusual for you."
+          ],
+          "questions": [
+            {
+              "type": "dropdown",
+              "q": "I ____ what you mean.",
+              "options": ["understand", "am understanding"],
+              "answer": 0
+            },
+            {
+              "type": "single",
+              "q": "Which sentence means \"I am considering it\"?",
+              "options": ["I think this film is too long.", "I'm thinking about changing jobs.", "I think you're right."],
+              "answer": 1
+            },
+            {
+              "type": "multiple",
+              "q": "Which sentences are correct?",
+              "options": ["This box contains old photos.", "Do you want some tea?", "She is knowing the answer.", "I'm needing a new phone."],
+              "answer": [0, 1]
+            },
+            {
+              "type": "fill",
+              "q": "Use \"have\" to mean \"eat\": Can I call you back? We ____ dinner.",
+              "answer": ["are having", "'re having"]
+            },
+            {
+              "type": "dropdown",
+              "q": "My neighbour ____ two brothers.",
+              "options": ["has", "is having"],
+              "answer": 0
+            },
+            {
+              "type": "single",
+              "q": "What does \"You're being very quiet today\" suggest?",
+              "options": ["Your behaviour today seems unusual.", "You are always a quiet person.", "You were quiet yesterday."],
+              "answer": 0
+            },
+            {
+              "type": "fill",
+              "q": "Add one word: I ____ smell something burning.",
+              "answer": "can"
+            }
+          ]
+        },
+        {
+          "title": "Unit 5: Past simple",
+          "text": [
+            "We use the past simple for a finished action or situation in the past. We often say or imply when it happened: yesterday, last June, in 1998, two hours ago.",
+            "Regular verbs add -ed: work becomes worked and open becomes opened. Spelling sometimes changes, so stop becomes stopped and study becomes studied. Many common verbs are irregular and must be learned: go becomes went, buy becomes bought, see becomes saw and write becomes wrote.",
+            "Negatives and questions use did with the base verb: I didn't call her. Did you sleep well? Do not use a past form after did. The correct sentence is she didn't go, not she didn't went.",
+            "The verb be works differently, with was and were and no did: I was tired. They weren't at home. Were you late?"
+          ],
+          "questions": [
+            {
+              "type": "fill",
+              "q": "Use the verb \"go\": Last summer we ____ to Hue.",
+              "answer": "went"
+            },
+            {
+              "type": "fill",
+              "q": "Make it negative: I saw the film. → I ____ the film.",
+              "answer": ["didn't see", "did not see"]
+            },
+            {
+              "type": "dropdown",
+              "q": "____ you sleep well last night?",
+              "options": ["Did", "Were", "Do"],
+              "answer": 0
+            },
+            {
+              "type": "single",
+              "q": "Which sentence is correct?",
+              "options": ["She didn't went home.", "She didn't go home.", "She not went home."],
+              "answer": 1,
+              "explain": "After didn't, use the base verb."
+            },
+            {
+              "type": "multiple",
+              "q": "Which past forms are correct?",
+              "options": ["bought", "writed", "stopped", "studyed"],
+              "answer": [0, 2],
+              "explain": "The correct forms of the other two are wrote and studied."
+            },
+            {
+              "type": "dropdown",
+              "q": "The shops ____ closed yesterday.",
+              "options": ["were", "did", "was"],
+              "answer": 0
+            },
+            {
+              "type": "fill",
+              "q": "Use the verb \"buy\": My parents ____ this house in 1998.",
+              "answer": "bought"
+            }
+          ]
+        },
+        {
+          "title": "Unit 6: Past continuous",
+          "text": [
+            "We use the past continuous for something in progress at a time in the past. The form is was or were plus the -ing form of the verb. At eight o'clock I was having breakfast means I started before eight and finished after it.",
+            "The past simple and past continuous often appear together. The continuous gives the longer background, and the simple gives the shorter event: I was washing the dishes when the phone rang.",
+            "The choice of form changes the order of events. When Lan arrived, we were eating means the meal had already started. When Lan arrived, we ate means she came first and then we started the meal.",
+            "State verbs such as know, want and understand stay in the past simple, so we say I knew the answer, not I was knowing the answer."
+          ],
+          "questions": [
+            {
+              "type": "dropdown",
+              "q": "I ____ a shower when the lights went out.",
+              "options": ["was taking", "am taking", "have taking"],
+              "answer": 0
+            },
+            {
+              "type": "single",
+              "q": "In \"When Lan arrived, we were eating\", when did the meal start?",
+              "options": ["Before Lan arrived", "After Lan arrived", "It never started"],
+              "answer": 0
+            },
+            {
+              "type": "single",
+              "q": "Which sentence shows one action happening after another?",
+              "options": ["When the alarm rang, we left the building.", "When the alarm rang, we were leaving the building.", "While we were leaving the building, the alarm rang."],
+              "answer": 0
+            },
+            {
+              "type": "fill",
+              "q": "Use the past continuous of \"snow\": It ____ when we woke up.",
+              "answer": "was snowing"
+            },
+            {
+              "type": "fill",
+              "q": "Add one word: What ____ you doing at ten o'clock last night?",
+              "answer": "were"
+            },
+            {
+              "type": "multiple",
+              "q": "Which sentences are correct?",
+              "options": ["I was knowing the answer.", "She was driving when she saw the deer.", "They were watching TV at nine.", "We was playing football."],
+              "answer": [1, 2]
+            },
+            {
+              "type": "dropdown",
+              "q": "While I ____ home, I met an old friend.",
+              "options": ["was walking", "am walking", "walks"],
+              "answer": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

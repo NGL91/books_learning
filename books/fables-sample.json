@@ -1,0 +1,130 @@
+{
+  "title": "Fables (sample book)",
+  "author": "Retold from Aesop",
+  "chapters": [
+    {
+      "title": "Chapter 1: Effort",
+      "sections": [
+        {
+          "title": "The Hare and the Tortoise",
+          "text": [
+            "A hare once laughed at a tortoise for being so slow. The tortoise smiled and offered to race him to the old oak tree. The hare thought this was the funniest idea he had ever heard, and he agreed at once.",
+            "The hare shot ahead and was soon out of sight. Feeling certain of victory, he lay down in the shade for a short nap. The tortoise kept walking, slowly and steadily, and never stopped to rest.",
+            "When the hare woke, the sun was low. He ran as fast as he could, but the tortoise had already reached the tree. Slow and steady effort had won the race."
+          ],
+          "questions": [
+            {
+              "type": "single",
+              "q": "Why did the hare lose the race?",
+              "options": ["He was injured", "He stopped to sleep", "He took a wrong turn", "The tortoise cheated"],
+              "answer": 1,
+              "explain": "He was so sure of winning that he took a nap."
+            },
+            {
+              "type": "multiple",
+              "q": "Which words describe how the tortoise moved?",
+              "options": ["Slowly", "Carelessly", "Steadily", "Backwards"],
+              "answer": [0, 2]
+            },
+            {
+              "type": "fill",
+              "q": "The finish line of the race was the old ____ tree.",
+              "answer": "oak"
+            },
+            {
+              "type": "dropdown",
+              "q": "What is the lesson of this fable?",
+              "options": ["Fast runners always win", "Steady effort beats overconfidence", "Never race a friend"],
+              "answer": 1
+            }
+          ]
+        },
+        {
+          "title": "The Ant and the Grasshopper",
+          "text": [
+            "All summer a grasshopper sang in the warm fields while an ant carried grain to her nest. The grasshopper asked the ant to come and enjoy the sun. The ant said that winter was coming and kept working.",
+            "When winter arrived, the fields lay under snow and the grasshopper had nothing to eat. He knocked on the ant's door and begged for food. The ant reminded him that effort in good times prepares us for hard times."
+          ],
+          "questions": [
+            {
+              "type": "single",
+              "q": "What did the grasshopper do all summer?",
+              "options": ["Stored food", "Sang", "Built a home"],
+              "answer": 1
+            },
+            {
+              "type": "fill",
+              "q": "What was the ant carrying to her nest?",
+              "answer": ["grain", "food"],
+              "explain": "The ant stored grain for the winter."
+            },
+            {
+              "type": "dropdown",
+              "q": "The grasshopper went hungry because he did not ____.",
+              "options": ["sing loudly", "prepare for winter", "know the ant"],
+              "answer": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2: Honesty and Caution",
+      "sections": [
+        {
+          "title": "The Boy Who Cried Wolf",
+          "text": [
+            "A shepherd boy grew bored while watching his flock near the village. For fun he shouted that a wolf was attacking the sheep. The villagers ran up the hill to help, and the boy laughed at them.",
+            "He played the same trick again a few days later. Then one evening a real wolf came out of the forest. The boy shouted as loudly as he could, but nobody came, because nobody believed him anymore."
+          ],
+          "questions": [
+            {
+              "type": "multiple",
+              "q": "Which events happened in the story?",
+              "options": ["The villagers ran up the hill", "The boy caught the wolf", "A real wolf came", "The boy moved away"],
+              "answer": [0, 2]
+            },
+            {
+              "type": "fill",
+              "q": "What animal did the boy lie about?",
+              "answer": "wolf"
+            },
+            {
+              "type": "single",
+              "q": "Why did nobody come the last time?",
+              "options": ["They could not hear him", "They no longer believed him", "They were asleep"],
+              "answer": 1,
+              "explain": "His earlier lies had cost him their trust."
+            }
+          ]
+        },
+        {
+          "title": "The Fox and the Crow",
+          "text": [
+            "A crow sat in a tree with a piece of cheese in her beak. A fox saw the cheese and wanted it. He told the crow that her feathers were beautiful and that her voice must be the finest in the forest.",
+            "Pleased by the praise, the crow opened her beak to sing, and the cheese fell to the ground. The fox ate it and walked away. He told her to be careful of anyone who offers too much praise."
+          ],
+          "questions": [
+            {
+              "type": "dropdown",
+              "q": "How did the fox get the cheese?",
+              "options": ["He climbed the tree", "He flattered the crow", "He frightened the crow"],
+              "answer": 1
+            },
+            {
+              "type": "single",
+              "q": "What made the crow drop the cheese?",
+              "options": ["She opened her beak to sing", "The wind blew", "She fell asleep"],
+              "answer": 0
+            },
+            {
+              "type": "fill",
+              "q": "What was the crow holding in her beak?",
+              "answer": ["cheese", "a piece of cheese"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
